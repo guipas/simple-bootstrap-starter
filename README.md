@@ -12,4 +12,4 @@ A stupidly simple template to start a project using Bootstrap + Bower + LESS + G
   gulp
 ### You are ready to go
 Just edit the ./less/custom.less file. The CSS file will be compiled for you in ./css/custom.css (this is the file you will use in your project). For example : 
-  <link rel="stylesheet" href="./css/custom.css">
+    <link rel="stylesheet" href="./css/custom.css">
