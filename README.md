@@ -8,7 +8,8 @@ A stupidly simple template to start a project using Bootstrap + Bower + LESS + G
 ###2. Install bootstrap with bower
       bower install --save-dev bootstrap
 ###3. Clone this project into your project directory
-      git clone https://github.com/guipas/simple-bootstrap-starter.git
+      git clone https://github.com/guipas/simple-bootstrap-starter.git myproject
+      cd myproject
 ###4. Launch Gulp (already configured)
       gulp
 ###5. You are ready to go
